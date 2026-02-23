@@ -1,4 +1,5 @@
-#HEK KOD!
+![HEKKOD](https://github.com/user-attachments/assets/282ca953-9fcb-4fa5-96bb-a5816181154e)
+#HEKKOD!
 
 ### 🚀 Hakkımda
 Yazılım geliştirme sürecimde ana odağım **C#** ve **Python**. Bu iki dilin gücünü kullanarak projeler üretiyorum.
