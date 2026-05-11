@@ -21,11 +21,6 @@ Yazılım geliştirme sürecimde ana odağım **C#** ve **Python**. Bu iki dilin
 
 ---
 
-### 🔗 Linkler & İletişim
-* 📧 **E-posta:** [HEKKOD1@gmail.com](mailto:HEKKOD1@gmail.com)
-
----
-
 ### 🏆 Başarılar
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HEKKOD&theme=dark&no-frame=true&column=4" alt="Trophies" />
